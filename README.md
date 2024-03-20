@@ -1,4 +1,5 @@
 # docker-php
-Ambiente de desenvolvimento docker com php
+Ambiente de desenvolvimento docker com php e nginx
 
-# Escolher banco de dados entre mysql e postgres
+# Banco de dados
+Mysql e postgress
