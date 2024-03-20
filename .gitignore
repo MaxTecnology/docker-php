@@ -1,0 +1,40 @@
+/vendor/
+/node_modules/
+
+# Pasta Banco
+/data/
+
+# Arquivos de configuração de IDE
+/.idea/
+/.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+/cache/
+/tmp/
+
+# Logs
+*.log
+*.tmp
+
+# Arquivos de configuração específicos do ambiente
+/.env
+/config.php
+
+# Pastas e arquivos comuns de uploads que não devem ser versionados
+/uploads/
+/media/
+
+# Dependências
+/composer.lock
+/package-lock.json
+/yarn.lock
+
+# Arquivos de build
+/dist/
+/build/
